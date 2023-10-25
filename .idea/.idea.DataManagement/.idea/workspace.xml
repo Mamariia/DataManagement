@@ -8,14 +8,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1122bbb3-0956-4a4a-a223-bee34fec1b1a" name="Changes" comment="Первая задача">
-      <change afterPath="$PROJECT_DIR$/DataManagement2/DataBase.bd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataManagement2/DataBase/Context.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataManagement2/DataBase/Tables/Person.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataManagement2/Repository/IRepository.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataManagement2/Repository/Repository.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataManagement2/Controllers/HumanController.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.DataManagement/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DataManagement/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataManagement.sln" beforeDir="false" afterPath="$PROJECT_DIR$/DataManagement.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataManagement1/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/DataManagement1/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +19,8 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/40a4c727ed10429e9462ed3199f679d7c600/fe/98cde1cc/raw.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/70df3e5caa697356d2da36622f77875efdb4473eafb5bfb84fe07e71a22b9499/EntityFrameworkServiceCollectionExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/aacc74311ca994f12b71cddb22241be9d6654c65e94f5985c5488dee396916f/DbContext.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DataManagement2/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -35,15 +31,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "settings.editor.selected.configurable": "dotNetConsole",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;dotNetConsole&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected=".NET Launch Settings Profile.DataManagement2: http">
     <configuration name="DataManagement1" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
